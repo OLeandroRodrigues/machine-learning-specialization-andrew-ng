@@ -1,0 +1,11 @@
+# venv
+.venv/
+# Jupyter
+.ipynb_checkpoints/
+# data & artifacts
+data/
+datasets/
+artifacts/
+# OS
+.DS_Store
+Thumbs.db
